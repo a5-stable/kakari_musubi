@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-** Now we can do is very limited. Any contribution would be GREATLY appreciated. **
+**Now we can do is very limited. Any contribution would be GREATLY appreciated.**
 
 ### is_km?
 return true if given sentence includes KakariMusubi particles.
