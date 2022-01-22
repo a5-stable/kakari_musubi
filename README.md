@@ -1,4 +1,6 @@
 # KakariMusubi
+**Now what we can do is very limited. Any contribution would be GREATLY appreciated.**
+
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/kakari_musubi`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -22,7 +24,7 @@ Or install it yourself as:
 
 ## Usage
 
-**Now we can do is very limited. Any contribution would be GREATLY appreciated.**
+**Now what we can do is very limited. Any contribution would be GREATLY appreciated.**
 
 ### is_km?
 return true if given sentence includes KakariMusubi particles.
