@@ -22,7 +22,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+** Now we can do is very limited. Any contribution would be GREATLY appreciated. **
+
+### is_km?
+return true if given sentence includes KakariMusubi particles.
+
+```
+KakariMusubi.is_km?("雨こそ降る")
+
+# => true
+```
+
 
 ## Development
 
