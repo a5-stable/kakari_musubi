@@ -28,7 +28,7 @@ Or install it yourself as:
 return true if given sentence includes KakariMusubi particles.
 
 ```
-KakariMusubi.is_km?("雨こそ降る")
+KakariMusubi.is_km?("雨ぞ降る")
 
 # => true
 ```
